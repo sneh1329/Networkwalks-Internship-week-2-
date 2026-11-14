@@ -136,6 +136,6 @@ misuse of the information or commands in this repository.
 
 ## Author
 
-**Sanika Sanjay Kale**\
+**Sneha Malyal**\
 Networkwalks Cybersecurity & Ethical Hacking Program\
 **Batch:** B084 \| **Week:** 2
